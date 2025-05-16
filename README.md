@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am enthusiastic and self-driven learner with a basic foundation in JavaScript, React, Zustand, Git, and currently exploring React Native. Passionate about mobile app development and eager to grow by contributing to real-world projects. Looking for an internship opportunity where I can apply what I've learned and continue improving my skills in a team environment.
+I am enthusiastic and self-driven learner with a basic foundation in JavaScript, React, Zustand, Git, and currently exploring React Native. Passionate about mobile app development and eager to grow by contributing to real-world projects. Looking for an opportunity where I can apply what I've learned and continue improving my skills in a team environment.
 
 
 ## 🌐 Socials:
